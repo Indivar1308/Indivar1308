@@ -1,3 +1,4 @@
+![MasterHead](https://media.tenor.com/6aSncIN19j8AAAAC/banner.gif)
 <h1 align="center">Hi 👋, I'm P Indivar</h1>
 <h3 align="center">A passionate Student from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/media/c6590c70a5966a3baf311f081cdda5ff.gif">
