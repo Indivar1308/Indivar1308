@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Ethical Hacking & Web Development**
 
-- 💬 Ask me about **Networks and Cyber Security**
+- 💬 Ask me about **Networking and Cyber Security**
 
 - 📫 How to reach me **reddyindivar1308@gmail.com**
 
